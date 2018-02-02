@@ -1,0 +1,6 @@
+# These will be installed to the python environment
+numpy
+scipy
+matplotlib
+emcee
+corner
