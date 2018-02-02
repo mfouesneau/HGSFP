@@ -5,3 +5,4 @@ matplotlib
 emcee
 corner
 seaborn
+pandas
