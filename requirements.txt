@@ -7,3 +7,4 @@ corner
 seaborn
 pandas
 pymc3
+daft
