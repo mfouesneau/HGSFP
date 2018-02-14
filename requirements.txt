@@ -6,3 +6,4 @@ emcee
 corner
 seaborn
 pandas
+pymc3
