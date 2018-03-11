@@ -8,3 +8,4 @@ seaborn
 pandas
 pymc3
 daft
+pystan
